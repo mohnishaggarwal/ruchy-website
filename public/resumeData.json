@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Ruchy Aggarwal",
+    "occupation": "pre-med student",
+    "description": "I work as a scribe at City MD based in Massapequa, NY. I'm even an EMT at Exchange ambulance based in Islip, NY",
+    "image": "profilepic.jpg",
+    "bio": "This is a very very good place to put a bio gugu",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mohnisha@umich.edu",
+    "phone": "(516) 713-9113",
+    "address": {
+      "street": "190 Cedar Shore Drive",
+      "city": "Massapequa",
+      "state": "NY",
+      "zip": "11758"
+    },
+    "website": "http://www.ruchyaggarwal.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100017452297461",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ruccigang99/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Stony Brook University",
+        "degree": "Bachelor of Science in Biology",
+        "graduated": "May 2020",
+        "description": "Describe  experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "experience": [
+      {
+        "company": "City MD",
+        "title": "Coffee Girl, I mean scribe",
+        "years": "March 2021 - Present",
+        "description": "Describe work, special projects, notable achievements, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Exchange Ambulance",
+        "title": "Brainwashed, I mean EMT",
+        "years": "March 2021 - Present",
+        "description": "Describe work, special projects, notable achievements, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Microsoft Excel",
+        "level": "60%"
+      },
+      {
+        "name": "Microsoft Word",
+        "level": "55%"
+      },
+      {
+        "name": "Coffee Making",
+        "level": "100%"
+      },
+      {
+        "name": "EMTing",
+        "level": "20%"
+      },
+      {
+        "name": "Eating",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Travel Vlog",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://goodnightfatty.com/fatties/"
+      },
+      {
+        "title": "Journal Writing",
+        "category": "My Journals",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://nypost.com/2018/02/18/fat-cops-are-weighing-down-the-nypd/"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "My favorite recipe!",
+        "image": "original-thai-food.jpg",
+        "url": "https://www.youtube.com/watch?v=ZpBlgWDQVU0&t=46s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have never before seen someone eat so much food so quickly before in my life. Truly impressive!",
+        "user": "Mohnish"
+      },
+      {
+        "text": "Such an inspiration for how to gain weight so quickly! ",
+        "user": "Mohnish again"
+      },
+      {
+        "text": "Makes a good cup of coffee",
+        "user": "PA at City MD"
+      }
+    ]
+  }
+}
